@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yashu769
 - 👀 I’m interested in Python.
 - 🌱 I’m currently learning Python and Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me - jainyashu769@gmail.com
 
 <!---
